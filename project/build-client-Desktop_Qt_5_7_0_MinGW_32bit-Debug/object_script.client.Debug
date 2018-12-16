@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\dialog.o
+./debug\clientsocket.o
+./debug\chatroom.o
+./debug\videosurface.o
+./debug\roommanager.o
+./debug\qrc_image.o
+./debug\moc_mainwindow.o
+./debug\moc_dialog.o
+./debug\moc_clientsocket.o
+./debug\moc_chatroom.o
+./debug\moc_videosurface.o
+);
