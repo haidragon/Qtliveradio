@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\clientsocket.o
+./release\dbhelper.o
+./release\userdao.o
+./release\userdaoimp.o
+./release\onlinedao.o
+./release\onlinedaoimp.o
+./release\socketmanager.o
+./release\chat.o
+./release\chatmanager.o
+./release\moc_mainwindow.o
+./release\moc_clientsocket.o
+);

@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\clientsocket.o
+./debug\dbhelper.o
+./debug\userdao.o
+./debug\userdaoimp.o
+./debug\onlinedao.o
+./debug\onlinedaoimp.o
+./debug\socketmanager.o
+./debug\chat.o
+./debug\chatmanager.o
+./debug\moc_mainwindow.o
+./debug\moc_clientsocket.o
+);

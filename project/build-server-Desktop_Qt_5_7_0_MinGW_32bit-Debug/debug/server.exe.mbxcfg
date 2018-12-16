@@ -1,0 +1,11 @@
+
+box.encrypt=1
+box.pattern=*.*
+box.separate=0
+box.ziplevel=1
+exe.crc=0
+exe.pack=1
+exe.packedfilesvisible=1
+exe.source=F:\iotek\QT5.7\project\build-server-Desktop_Qt_5_7_0_MinGW_32bit-Debug\debug\server.exe
+exe.target=江山悦播服务器端.exe
+
