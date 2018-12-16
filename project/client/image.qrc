@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/pic1.jpg</file>
+        <file>image/pic2.png</file>
+        <file>image/pic3.png</file>
+        <file>image/skin.jpg</file>
+        <file>image/icon/audio.png</file>
+        <file>image/icon/audio1.png</file>
+        <file>image/icon/close.png</file>
+        <file>image/icon/exit.png</file>
+        <file>image/icon/flash.jpg</file>
+        <file>image/icon/gift.png</file>
+        <file>image/icon/passwd.png</file>
+        <file>image/icon/send.png</file>
+        <file>image/icon/send1.png</file>
+        <file>image/icon/usr.png</file>
+        <file>image/icon/video.png</file>
+        <file>image/vpic.png</file>
+        <file>image/audio.gif</file>
+        <file>image/gift.jpg</file>
+        <file>image/icon/video1.png</file>
+        <file>image/ico.jpg</file>
+        <file>image/user/room1.jpg</file>
+        <file>image/user/room2.jpg</file>
+        <file>image/user/user.jpg</file>
+        <file>image/user/user1.jpg</file>
+        <file>image/user/user2.jpg</file>
+        <file>image/user/user3.jpg</file>
+        <file>image/user/user4.jpg</file>
+    </qresource>
+</RCC>
